@@ -8,7 +8,8 @@ Let's say, We’re trying to predict someone's salary based on their years of ex
 
 # The line is represented by this simple equation:
  => y = mx + b
-Salary = m * Years of Experience + b    
+ 
+ Salary = m * Years of Experience + b    
 
 Here:
 m is the slope of the line (it tells you how much salary increases with each additional year of experience).
